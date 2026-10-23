@@ -1,0 +1,602 @@
+[
+  {
+    "ref": "10",
+    "sku": "1059",
+    "name": "CHAIN SPROCKET-54 TOOTH",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "photo": {
+      "file": "part-1059.jpg",
+      "region": [
+        116,
+        1273,
+        250,
+        200
+      ],
+      "page": 5,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "54-tooth chain sprocket",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "1",
+    "sku": "1065",
+    "name": "AY-BOW W/ OW CLAMPS, 8'",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "photo": {
+      "file": "part-1065.jpg",
+      "region": [
+        394,
+        1273,
+        250,
+        200
+      ],
+      "page": 5,
+      "width": 1313,
+      "height": 1688
+    },
+    "sourceNote": "The website describes an 8-foot bow; the catalog photo describes a 98-inch bow with a 13-inch arch. Both use part 1065. Confirm dimensions before ordering.",
+    "displayName": "Bow assembly with clamps",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "12",
+    "sku": "1017",
+    "name": "AY-LH REAR IDLER",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "photo": {
+      "file": "part-1017.jpg",
+      "region": [
+        671,
+        1273,
+        250,
+        200
+      ],
+      "page": 5,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Left rear idler assembly",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "7",
+    "sku": "SA11226",
+    "name": "UNDERBODY ALUMINUM ARM CASTING",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "photo": {
+      "file": "part-sa11226.jpg",
+      "region": [
+        116,
+        1260,
+        250,
+        200
+      ],
+      "page": 7,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Underbody aluminum arm casting",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "6",
+    "sku": "SA11224",
+    "name": "UNDERBODY SPRING ASSEMBLY PASSENGER SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "photo": {
+      "file": "part-sa11224.jpg",
+      "region": [
+        394,
+        1260,
+        250,
+        200
+      ],
+      "page": 7,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Underbody spring assembly \u2014 passenger side",
+    "unit": "each",
+    "category": "Springs"
+  },
+  {
+    "ref": null,
+    "sku": "SA11200",
+    "name": "ALUMINUM TARP AXLE",
+    "system": "Swing arm system",
+    "sourceNote": "Shown with part number SA11200 in the catalog photo caption; not listed in the website replacement-parts table. Confirm current availability.",
+    "source": "https://precisiontarps.com/wp-content/uploads/2022/05/precision-tarp-booklet_compressed.pdf",
+    "diagram": "swing-diagram.jpg",
+    "photo": {
+      "file": "part-sa11200.jpg",
+      "region": [
+        671,
+        1260,
+        250,
+        200
+      ],
+      "page": 7,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Aluminum tarp axle",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": null,
+    "sku": "1018",
+    "name": "CRANK HANDLE ASSEMBLY",
+    "system": "Cable system",
+    "sourceNote": "Shown with part number 1018 in the catalog photo caption; not listed in the website replacement-parts table. Confirm current availability.",
+    "source": "https://precisiontarps.com/wp-content/uploads/2022/05/precision-tarp-booklet_compressed.pdf",
+    "diagram": "cable-diagram.jpg",
+    "photo": {
+      "file": "part-1018.jpg",
+      "region": [
+        950,
+        1273,
+        250,
+        200
+      ],
+      "page": 5,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Crank handle assembly",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": null,
+    "sku": "SA11668",
+    "name": "GROUND LEVEL CRANK BOX KIT",
+    "system": "Swing arm system",
+    "sourceNote": "Shown with part number SA11668 in the catalog photo caption; not listed in the website replacement-parts table. Confirm current availability.",
+    "source": "https://precisiontarps.com/wp-content/uploads/2022/05/precision-tarp-booklet_compressed.pdf",
+    "diagram": "swing-diagram.jpg",
+    "photo": {
+      "file": "part-sa11668.jpg",
+      "region": [
+        950,
+        1260,
+        250,
+        200
+      ],
+      "page": 7,
+      "width": 1313,
+      "height": 1688
+    },
+    "displayName": "Ground-level crank box kit",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "2",
+    "sku": "1022",
+    "name": "PL-WIND DEFLECTOR 8'",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Wind deflector plate \u2014 8 ft",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "3",
+    "sku": "1023",
+    "name": "TUBE-1 SQ. X 93.5\"",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Square tube \u2014 1 in \u00d7 93.5 in",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "4",
+    "sku": "1024",
+    "name": "WLDT-FRONT BEARING MOUNT, 8'",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Front bearing mount weldment \u2014 8 ft",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "5",
+    "sku": "1066",
+    "name": "ROD-FRONT PULLEY, 100\"",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Front pulley rod \u2014 100 in",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "6",
+    "sku": "1086",
+    "name": "REAR TARP BOW-8'",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Rear tarp bow \u2014 8 ft",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "7",
+    "sku": "1084",
+    "name": "AY-BOW SPORT MOUNT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Bow mount assembly",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "8",
+    "sku": "1029",
+    "name": "PILLOW BLOCK BEARING-1\"",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Pillow block bearing \u2014 1 in",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "9",
+    "sku": "1062",
+    "name": "CABLE PULLEY-7\"",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Cable pulley \u2014 7 in",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "11",
+    "sku": "1038",
+    "name": "AY-CHAIN CRANK",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Chain crank assembly",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "13",
+    "sku": "1000",
+    "name": "AY-RH REAR IDLER",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Right rear idler assembly",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "15",
+    "sku": "1096",
+    "name": "SAFETY HOOK-FLAT LH",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Flat safety hook \u2014 left",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "16",
+    "sku": "1102",
+    "name": "SAFETY HOOK-FLAT RH",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Flat safety hook \u2014 right",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "17",
+    "sku": "2004",
+    "name": "O-ELECTRIC MOTOR KIT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Electric motor kit",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "18",
+    "sku": "1099",
+    "name": "CHAIN SPROCKET-30 teeth motor",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "30-tooth motor sprocket",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "20",
+    "sku": "1105",
+    "name": "S.S. CHAIN-1\u2019 SELL BY FOOT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Stainless steel chain \u2014 by the foot",
+    "unit": "ft",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "21",
+    "sku": "1124",
+    "name": "S.S. CABLE-1/4\u201d SELL BY FOOT'",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Stainless steel cable \u2014 \u00bc in, by the foot",
+    "unit": "ft",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "22",
+    "sku": "1118",
+    "name": "AY-LH REAR IDLER,EXT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Extended rear idler \u2014 left",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "23",
+    "sku": "1119",
+    "name": "AY-RH REAR IDLER,EXT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Extended rear idler \u2014 right",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "24",
+    "sku": "1108",
+    "name": "WLDT-FRONT MOUNT,SIDE",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Side front mount weldment",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "25",
+    "sku": "1109",
+    "name": "WLDT-FRONT MOUNT,CENTER",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Center front mount weldment",
+    "unit": "each",
+    "category": "Bows & hardware"
+  },
+  {
+    "ref": "27",
+    "sku": "1120",
+    "name": "6GA. DUAL CONDUCTOR WIRE-65\u2019",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "Dual conductor wire \u2014 6 gauge, 65 ft",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "28",
+    "sku": "11103",
+    "name": "ROTARY SWITCH KIT",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "sourceNote": "The website lists 11103, while the catalog table lists 1103 for the rotary switch kit. Ask Precision Tarp to confirm the order number.",
+    "displayName": "Rotary switch kit",
+    "unit": "each",
+    "category": "Drive & electrical",
+    "aliases": [
+      "1103"
+    ]
+  },
+  {
+    "ref": "29",
+    "sku": "1104",
+    "name": "50 AMP BREAKER each",
+    "system": "Cable system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "cable-diagram.jpg",
+    "displayName": "50 amp breaker",
+    "unit": "each",
+    "category": "Drive & electrical"
+  },
+  {
+    "ref": "6",
+    "sku": "SA11225",
+    "name": "UNDERBODY SPRING ASSEMBLY DRIVER SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Underbody spring assembly \u2014 driver side",
+    "unit": "each",
+    "category": "Springs"
+  },
+  {
+    "ref": "8",
+    "sku": "SA11228",
+    "name": "UNDERBODY ALUMINUM LOWER ARM 84\u201d",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Underbody aluminum lower arm \u2014 84 in",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "8",
+    "sku": "SA14971",
+    "name": "UNDERBODY ALUMINUM LOWER ARM 96\u201d",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Underbody aluminum lower arm \u2014 96 in",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "8",
+    "sku": "SA11227",
+    "name": "UNDERBODY ALUMINUM LOWER ARM 144\u201d",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Underbody aluminum lower arm \u2014 144 in",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "9",
+    "sku": "SA11232",
+    "name": "ALUMINUM CROSS TUBE, 105-1/2\u201d",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "sourceNote": "The website table gives reference 8; the catalog and drawing identify the cross tube as reference 9. Use reference 9 when viewing this drawing.",
+    "displayName": "Aluminum cross tube \u2014 105\u00bd in",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "12",
+    "sku": "SA11231",
+    "name": "PLASTIC TARP FLANGE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Plastic tarp flange",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "13",
+    "sku": "SA14942",
+    "name": "2-1/2\u201d RUBBER TARP CENTERING FLANGE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Rubber tarp centering flange \u2014 2\u00bd in",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "14",
+    "sku": "SA11233",
+    "name": "OPTIONAL ALUM. 45\u00b0 DEGREE ELBOW",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Aluminum elbow \u2014 45\u00b0",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "14",
+    "sku": "SA11234",
+    "name": "OPTIONAL ALUM. 30\u00b0 DEGREE ELBOW",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Aluminum elbow \u2014 30\u00b0",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "15",
+    "sku": "SA11177",
+    "name": "ALUMINUM STOP BRACKET W/ RUBBER BUMPER",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Aluminum stop bracket with rubber bumper",
+    "unit": "each",
+    "category": "Arms & mounts"
+  },
+  {
+    "ref": "16",
+    "sku": "SA14191",
+    "name": "SPRING UNDERBODY ASSEMBLY\u2014DRIVERS SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Spring underbody assembly \u2014 driver side",
+    "unit": "each",
+    "category": "Springs"
+  },
+  {
+    "ref": "16",
+    "sku": "SA14192",
+    "name": "SPRING UNDERBODY ASSEMBLY\u2014PASSENGER SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "Spring underbody assembly \u2014 passenger side",
+    "unit": "each",
+    "category": "Springs"
+  },
+  {
+    "ref": "16",
+    "sku": "SA13954",
+    "name": "10 SPRING UNDERBODY ASSEMBLY DRIVERS SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "10-spring underbody assembly \u2014 driver side",
+    "unit": "each",
+    "category": "Springs"
+  },
+  {
+    "ref": "16",
+    "sku": "SA13955",
+    "name": "10 SPRING UNDERBODY ASSEMBLY PASSENGER SIDE",
+    "system": "Swing arm system",
+    "source": "https://precisiontarps.com/replacement-parts/",
+    "diagram": "swing-diagram.jpg",
+    "displayName": "10-spring underbody assembly \u2014 passenger side",
+    "unit": "each",
+    "category": "Springs"
+  }
+]

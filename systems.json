@@ -1,0 +1,170 @@
+{
+  "cable": {
+    "name": "Heavy Duty Cable System",
+    "image": "truck1.png",
+    "description": "A sliding cable system with manual or electric operation. Choose mesh for general hauling, or discuss vinyl for weather-sensitive and hot-mix applications.",
+    "specs": [
+      [
+        "Operation",
+        "Manual or electric"
+      ],
+      [
+        "Coverage options",
+        "Mesh or vinyl"
+      ],
+      [
+        "Published vinyl options",
+        "18 oz. standard; ask about 22 oz."
+      ],
+      [
+        "Construction",
+        "Stainless steel and zinc-plated components"
+      ]
+    ],
+    "note": "Ask the team to confirm dimensions, motor choice and installation requirements for your vehicle.",
+    "source": "heavy-duty-cable-system/",
+    "details": [
+      [
+        "Mesh coverage",
+        "The company\u2019s Anti Pollution System uses mesh for general hauling where weather protection is not the priority, including dirt, sand and gravel."
+      ],
+      [
+        "Vinyl coverage",
+        "The published Semi-Waterproof System uses vinyl for weather resistance and heat retention. Discuss the load and temperature requirements for asphalt or other sensitive materials; this is not a waterproof guarantee."
+      ],
+      [
+        "Built around the body",
+        "Published bow options include 13-inch and 18-inch arches, with custom arches available by request. Reinforced bow pockets and an optional aluminum or diamond-plate wind deflector are described on the company site."
+      ]
+    ],
+    "motors": [
+      [
+        "Apache Slim",
+        "Published 50:1 option"
+      ],
+      [
+        "Tomahawk",
+        "Published 60:1 option"
+      ],
+      [
+        "Enforcer HD",
+        "Published 90:1 option"
+      ]
+    ]
+  },
+  "swing": {
+    "name": "HD Swing Arm System",
+    "image": "truck2.png",
+    "description": "A swing arm system with external or underbody mounting configurations and ground-level operating options.",
+    "specs": [
+      [
+        "External mount range",
+        "8\u201326 ft dump bodies"
+      ],
+      [
+        "Underbody mount range",
+        "12\u201338 ft dump bodies"
+      ],
+      [
+        "Arm material",
+        "Polished aluminum"
+      ],
+      [
+        "Operating choices",
+        "Electric or ground-level crank"
+      ]
+    ],
+    "note": "These are published size ranges, not an automatic fit recommendation. Confirm mounting, clearance and any configuration outside these ranges with the team.",
+    "source": "hd-swing-arm-system/",
+    "details": [
+      [
+        "External mount",
+        "Published for 8\u201326 ft dump bodies, with polished aluminum arms and a bolt-on spiral torsion spring assembly. Ask the team to confirm mounting space and clearances."
+      ],
+      [
+        "Underbody mount",
+        "Published for 12\u201338 ft dump bodies. The lower arm lengths and spring assemblies vary; use the numbered diagram and part markings when requesting replacements."
+      ]
+    ],
+    "motors": [
+      [
+        "Apache Slim",
+        "Published 50:1 option"
+      ],
+      [
+        "Tomahawk",
+        "Published 60:1 option"
+      ],
+      [
+        "Enforcer HD",
+        "Published 90:1 option"
+      ]
+    ]
+  },
+  "custom": {
+    "name": "Custom Roll Tarp",
+    "image": "custom-tarp.jpg",
+    "description": "Custom roll tarps made to the dimensions of your box, with reinforced edges and attachment details to suit the application.",
+    "specs": [
+      [
+        "Published material",
+        "18 oz. vinyl"
+      ],
+      [
+        "Reinforcement",
+        "Vinyl pockets and 2-inch webbing"
+      ],
+      [
+        "Side drop",
+        "6\u201312 inches, based on preference"
+      ],
+      [
+        "Application",
+        "Custom box coverage"
+      ]
+    ],
+    "note": "Include the intended use and approximate dimensions in your request. Final dimensions, hardware, colors and pricing need confirmation.",
+    "source": "custom-tarps/",
+    "details": [
+      [
+        "Construction details",
+        "The published design uses 18 oz. vinyl, reinforced pockets for wooden boards and 2-inch seatbelt webbing at the edges."
+      ],
+      [
+        "Define the finished fit",
+        "Discuss the box dimensions, desired side drop, attachment layout and color. Send a sketch with units and label whether your measurements describe the box or the finished tarp."
+      ]
+    ]
+  },
+  "aviation": {
+    "name": "Aviation Baggage Cart Curtains",
+    "image": "aviation-curtains.jpg",
+    "description": "Custom vinyl curtains for aviation baggage carts, made with reinforced webbing and attachment options for the cart opening.",
+    "specs": [
+      [
+        "Published material",
+        "18 oz. vinyl"
+      ],
+      [
+        "Reinforcement",
+        "2-inch webbing throughout"
+      ],
+      [
+        "Hardware options",
+        "S-hooks, D-rings and O-rings"
+      ],
+      [
+        "Edge & closure options",
+        "Grommets and hook-and-loop fastening"
+      ]
+    ],
+    "note": "Share the cart opening dimensions, number of curtains and existing attachment arrangement. Final measurements, hardware and production details need confirmation.",
+    "source": "custom-tarps/",
+    "details": [
+      [
+        "Made for the cart",
+        "Photograph the full cart and each opening, including the mounting points and closure. A labeled sketch helps the team distinguish the opening size from the requested finished curtain size."
+      ]
+    ]
+  }
+}
